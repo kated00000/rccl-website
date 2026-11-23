@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+       Исследуем региональную изменчивость и изменения климата, атмосферные процессы и климатические риски для природных и социально-экономических систем.
   
   - block: collection
     content:
