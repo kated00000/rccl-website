@@ -1,0 +1,21 @@
+
+main:
+  - name: Главная
+    url: /
+    weight: 10
+
+  - name: Новости
+    url: /post/
+    weight: 20
+
+  - name: Команда
+    url: /people/
+    weight: 30
+
+  - name: Публикации
+    url: /publication/
+    weight: 40
+
+  - name: Контакты
+    url: /contact/
+    weight: 50
