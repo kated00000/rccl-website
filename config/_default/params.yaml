@@ -18,9 +18,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Regional Climate Change Laboratory (RCCL)'
+    description: 'Research on regional climate variability, climate change, and atmospheric processes.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -48,9 +48,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Regional Climate Change Laboratory (RCCL)'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
