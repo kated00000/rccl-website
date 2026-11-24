@@ -3,22 +3,25 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+
+# Главное меню RCCL
 main:
-  - name: Tour
-    url: tour
+  - name: Главная
+    url: /
     weight: 10
-  - name: News
+
+  - name: Новости
     url: post
     weight: 20
-  - name: People
+
+  - name: Команда
     url: people
     weight: 30
-  - name: Events
-    url: event
-    weight: 40
-  - name: Publications
+
+  - name: Публикации
     url: publication
-    weight: 50
-  - name: Contact
+    weight: 40
+
+  - name: Контакты
     url: contact
-    weight: 60
+    weight: 50
