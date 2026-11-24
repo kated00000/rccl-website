@@ -158,3 +158,50 @@ section.home-section {
     font-size: 1.25rem;
   }
 }
+
+
+/* RCCL — увеличенная шапка сайта */
+
+.navbar {
+  min-height: 76px;
+}
+
+.navbar .navbar-brand {
+  font-size: 1.8rem !important;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.navbar .navbar-brand img {
+  height: 40px !important;
+  max-height: 40px !important;
+  width: auto !important;
+  object-fit: contain;
+}
+
+.navbar .navbar-nav .nav-link {
+  font-size: 1.08rem !important;
+  font-weight: 600;
+  padding-left: 0.65rem;
+  padding-right: 0.65rem;
+}
+
+/* Компактное оформление на небольших экранах */
+
+@media (max-width: 991.98px) {
+  .navbar {
+    min-height: 64px;
+  }
+
+  .navbar .navbar-brand {
+    font-size: 1.45rem !important;
+  }
+
+  .navbar .navbar-brand img {
+    height: 34px !important;
+    max-height: 34px !important;
+  }
+}
+
