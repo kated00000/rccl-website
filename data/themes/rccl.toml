@@ -1,0 +1,21 @@
+
+# RCCL — Scientific Minimalism
+
+name = "RCCL"
+
+[light]
+  primary = "#167A8A"
+  primary_light = "#4FB3A5"
+  primary_dark = "#0F2D4B"
+
+  menu_primary = "#FFFFFF"
+  menu_text = "#0F2D4B"
+  menu_text_active = "#167A8A"
+  menu_title = "#0F2D4B"
+
+  background = "#FFFFFF"
+  home_section_odd = "#FFFFFF"
+  home_section_even = "#F5F8FA"
+
+  link = "#167A8A"
+  link_hover = "#0F2D4B"
