@@ -4,13 +4,17 @@ title: Главная
 type: landing
 
 sections:
+  
   - block: hero
     content:
       title: Лаборатория региональных изменений климата
+      image:
+        filename: rccl-main-logo.png
       text: |
         Regional Climate Change Laboratory (RCCL)
 
         Исследуем региональную изменчивость и изменения
         климата, атмосферные процессы и климатические риски
         для природных и социально-экономических систем.
+
 ---
