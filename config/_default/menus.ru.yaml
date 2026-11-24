@@ -1,5 +1,3 @@
-
-
 main:
   - name: Главная
     pageRef: /
