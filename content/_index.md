@@ -8,13 +8,13 @@ sections:
   
   - block: hero
     content:
-      title: Лаборатория региональных изменений климата
+      title: Regional Climate Change Laboratory
       image:
-        filename: rccl-climate.jpg
+        filename: rccl-main-logo.png
       text: |
-        Исследуем региональную изменчивость и изменения климата,
-        атмосферные процессы и климатические риски для природных
-        и социально-экономических систем.
+        We study regional variability and climate change,
+        atmospheric processes, and climate risks for natural
+        and socio‑economic systems.
 
   
   - block: collection
