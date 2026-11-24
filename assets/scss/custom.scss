@@ -1,0 +1,160 @@
+
+/* ========================================
+   RCCL — SCIENTIFIC MINIMALISM
+   ======================================== */
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+/* 1. Основные цвета и шрифты */
+
+body {
+  font-family: "Inter", "Segoe UI", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+  color: #0F2D4B;
+  background-color: #FFFFFF;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Inter", "Segoe UI", Arial, sans-serif;
+  color: #0F2D4B;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+h1 {
+  font-size: 2.5rem;
+  letter-spacing: -0.035em;
+}
+
+h2 {
+  font-size: 1.8rem;
+  letter-spacing: -0.02em;
+}
+
+p {
+  line-height: 1.7;
+}
+
+/* 2. Ссылки */
+
+a {
+  color: #167A8A;
+}
+
+a:hover {
+  color: #0F2D4B;
+}
+
+/* 3. Верхняя панель */
+
+.navbar {
+  background-color: #FFFFFF !important;
+  border-bottom: 1px solid #E5EEF2;
+  box-shadow: none !important;
+}
+
+.navbar .navbar-brand {
+  font-size: 1.45rem;
+  font-weight: 700;
+  letter-spacing: 0.045em;
+  color: #0F2D4B !important;
+}
+
+.navbar .navbar-nav .nav-link {
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: #0F2D4B;
+}
+
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link.active {
+  color: #167A8A !important;
+}
+
+/* 4. Отступы между блоками */
+
+section.home-section {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.home-section .section-heading {
+  margin-bottom: 28px;
+}
+
+/* 5. Карточки новостей */
+
+.card {
+  border: 1px solid #E5EEF2;
+  border-radius: 10px;
+  box-shadow: none !important;
+  overflow: hidden;
+}
+
+.card .card-body {
+  padding: 1.4rem;
+}
+
+.card:hover {
+  border-color: #B6D9E0;
+}
+
+/* 6. Команда */
+
+.people-person {
+  padding-top: 12px;
+  padding-bottom: 16px;
+}
+
+.people-person .avatar {
+  border-radius: 8px;
+}
+
+.people-person h2,
+.portrait-title h2 {
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
+/* 7. Публикации */
+
+.pub-list-item,
+.pub-row {
+  padding-bottom: 14px;
+  margin-bottom: 18px;
+  border-bottom: 1px solid #E5EEF2;
+}
+
+/* 8. Нижний колонтитул */
+
+.site-footer {
+  border-top: 1px solid #E5EEF2;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+/* 9. Мобильные устройства */
+
+@media (max-width: 767px) {
+  body {
+    font-size: 15px;
+  }
+
+  h1 {
+    font-size: 1.9rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  section.home-section {
+    padding-top: 38px;
+    padding-bottom: 38px;
+  }
+
+  .navbar .navbar-brand {
+    font-size: 1.25rem;
+  }
+}
