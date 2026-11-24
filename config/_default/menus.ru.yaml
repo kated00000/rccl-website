@@ -1,21 +1,21 @@
+
 main:
   - name: Главная
-    pageRef: /
+    url: "//kated00000.github.io/rccl-website/ru/"
     weight: 10
 
   - name: Новости
-    pageRef: /post
+    url: "//kated00000.github.io/rccl-website/ru/post/"
     weight: 20
 
   - name: Команда
-    pageRef: /people
+    url: "//kated00000.github.io/rccl-website/ru/people/"
     weight: 30
 
   - name: Публикации
-    pageRef: /publication
+    url: "//kated00000.github.io/rccl-website/ru/publication/"
     weight: 40
 
   - name: Контакты
-    pageRef: /contact
+    url: "//kated00000.github.io/rccl-website/ru/contact/"
     weight: 50
-
