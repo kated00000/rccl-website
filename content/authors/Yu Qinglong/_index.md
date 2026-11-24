@@ -16,5 +16,3 @@ user_groups:
 social: []
 ---
 
-#Research interests include regional climate change,
-#atmospheric processes, and climate modeling.
