@@ -1,5 +1,5 @@
 ---
-title: "Gavrikov Alexander Vladimirovich"
+title: "Gavrikov Alexander"
 first_name: Alexander
 last_name: Gavrikov
 
