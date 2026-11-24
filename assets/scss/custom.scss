@@ -205,3 +205,42 @@ section.home-section {
   }
 }
 
+
+/* RCCL — логотип и название рядом */
+
+.navbar .navbar-brand {
+  display: inline-flex !important;
+  align-items: center;
+  gap: 12px;
+  white-space: nowrap;
+}
+
+.navbar .navbar-brand::after {
+  content: "RCCL";
+  display: inline-block;
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0.02em;
+  color: #0F2D4B;
+}
+
+.navbar .navbar-brand img {
+  height: 42px !important;
+  max-height: 42px !important;
+  width: auto !important;
+}
+
+/* Мобильная версия */
+
+@media (max-width: 767px) {
+  .navbar .navbar-brand::after {
+    font-size: 1.45rem;
+  }
+
+  .navbar .navbar-brand img {
+    height: 32px !important;
+    max-height: 32px !important;
+  }
+}
