@@ -1,28 +1,28 @@
 
 ---
-title: Контакты
+title: Contact
 date: 2022-10-24
 type: landing
 
 sections:
   - block: contact
     content:
-      title: Контакты
-      text: "МФТИ (MIPT)"
+      title: Contact
+      text: "MIPT"
 
       address:
-        street: "Научный переулок, д. 4, корп. 1"
-        city: "Долгопрудный"
-        region: "Московская область"
+        street: "4, Building 1, Nauchny Lane"
+        city: "Dolgoprudny"
+        region: "Moscow Region"
         postcode: "141701"
-        country: "Россия"
+        country: "Russia"
         country_code: "RU"
 
       coordinates:
         latitude: "55.930280"
         longitude: "37.519604"
 
-      directions: "Войдите в корпус 1 и поднимитесь по лестнице на 3-й этаж, кабинет 3.30А."
+      directions: "Enter Building 1 and take the stairs to Office 3.30A on Floor 3."
 
       autolink: true
 
