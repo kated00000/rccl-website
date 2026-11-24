@@ -1,21 +1,23 @@
 
+
 main:
   - name: Главная
-    url: /
+    pageRef: /
     weight: 10
 
   - name: Новости
-    url: /post/
+    pageRef: /post
     weight: 20
 
   - name: Команда
-    url: /people/
+    pageRef: /people
     weight: 30
 
   - name: Публикации
-    url: /publication/
+    pageRef: /publication
     weight: 40
 
   - name: Контакты
-    url: /contact/
+    pageRef: /contact
     weight: 50
+
