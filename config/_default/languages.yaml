@@ -2,9 +2,21 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-# Default language
+# Languages of RCCL website
+
 en:
-  languageCode: en-us
+  languageCode: en-US
+  languageName: English
+  weight: 1
+
+ru:
+  languageCode: ru-RU
+  languageName: Русский
+  weight: 2
+
+# Default language
+#en:
+  #languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
