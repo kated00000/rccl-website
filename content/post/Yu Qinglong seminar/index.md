@@ -4,6 +4,8 @@ title: "Scientific Seminar: Changes in the Arctic Climate System and Their Links
 date: 2026-10-08
 summary: "Yu Qinglong from Fudan University presented recent research on Arctic climate change, ocean–atmosphere–sea ice interactions, and their links to climate extremes at a scientific seminar hosted by MIPT."
 draft: false
+share: false
+profile: false
 
 image:
   filename: featured.jpg
