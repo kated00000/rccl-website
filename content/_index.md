@@ -45,7 +45,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: rccl-banner.jpg
           filters:
             brightness: 1
           parallax: false
