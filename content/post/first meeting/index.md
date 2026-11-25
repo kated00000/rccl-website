@@ -5,6 +5,7 @@ date: 2026-11-24
 summary: "Researchers from MIPT, the Shirshov Institute of Oceanology, and Fudan University gathered to launch a five-year megagrant project on ocean-driven mechanisms of Eurasian climate variability and predictability."
 draft: false
 share: false
+profile: false
 
 image:
   filename: featured.jpg
