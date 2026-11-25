@@ -3,8 +3,7 @@
 title: "Стартовое совещание проекта мегагранта по исследованию изменчивости климата Евразии"
 date: 2026-11-24
 summary: "Краткое описание первой новости лаборатории."
-draft: true
-
+draft: false
 image:
   filename: featured.jpg
   focal_point: Smart
